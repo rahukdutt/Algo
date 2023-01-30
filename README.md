@@ -9,3 +9,4 @@ The maximum value in "min_grid" is then found using np.amax and the position is 
 The position is returned by printing the row and column indices (1-indexed).
 A separate function "create_grid" is defined to create the grid. It takes the grid size as input and the grid values are entered as input separated by "#".
 The main function calls both functions and passes the result of "create_grid" to "find_max_min_block".
+
